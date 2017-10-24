@@ -178,7 +178,8 @@ SET(tst_testmain_SOURCES ${srcx} ${srcx_web}
 ../../webserverquery.cpp
 ../../userconfiguration.cpp
 ../../projectconfiguration.cpp 
-../../queuehelp.cpp)
+../../queuehelp.cpp
+../../custommessage.cpp)
 
 SET(tst_testmain_FORMS ${uixx} ${uixx_web}) 
 SET(tst_testmain_RESOURCES ${resx} ${resx_web})
